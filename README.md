@@ -36,3 +36,6 @@ I am a third-year student pursuing a degree in Robotics and Digital Systems Engi
 
 - **Email:** [josepablocedano@gmail.com](josepablocedano@gmail.com)
 - **LinkedIn:** [jpcedano](https://www.linkedin.com/in/jpcedano/)
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=radical)
