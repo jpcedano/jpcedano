@@ -1,82 +1,29 @@
-# Jose Pablo
+# Hi, I'm José Pablo 👋
 
-## About Me
+Robotics & Digital Systems Engineer based in Monterrey, Mexico. I work where software meets hardware: computer vision, ROS2, industrial automation, and IoT in real factories.
 
-I am a third-year student pursuing a degree in Robotics and Digital Systems Engineering. With a strong passion for robotics, automation, and digital systems, I aim to contribute to innovative projects in these fields. My expertise spans across various advanced technologies and methodologies in robotics and AI.
+- 🏭 **Now:** Field Service Engineer at [eMoldino](https://www.emoldino.com). I install and support wireless IoT mold-monitoring sensors for manufacturing clients
+- ⚙️ **Before:** Control Engineer at Avant Assembly Systems. Commissioned automotive assembly lines with Allen-Bradley and Siemens PLCs and Keyence vision systems
+- 🤖 **Research:** Intern at Chalmers University of Technology (Gothenburg). Ran ROS2, YOLOv5, and GPT-3.5 on a PAL Robotics TIAGo robot; co-authored an IEEE paper on split-compute architecture for AGVs
+- 🎓 B.Sc. Robotics & Digital Systems Engineering, Tecnológico de Monterrey (2025)
 
-## Languages
+## Featured projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [Puzzlebot](https://github.com/jpcedano/puzzlebot) | Autonomous mobile robot that detects traffic lights and objects and adjusts its speed | ROS2, YOLO, Python |
+| [Visuocontrol of a quasi-static robot](https://github.com/jpcedano/Visuocontrol-of-a-quasi-static-robot) | Hand gestures from a webcam drive a simulated 6-DOF arm with inverse kinematics over TCP | OpenCV, MediaPipe, Processing |
+| [2D–3D Credential Detection](https://github.com/jpcedano/2D-3D-Credential-Detection-with-Color-Face-Matching-using-Monocular-Vision) | Finds and verifies color-coded ID cards in 3D from a single camera | OpenCV, camera calibration, Haar cascades |
+| [John Deere Smart Car](https://github.com/jpcedano/JohnDeere_SmartCar) | Camera-guided car that follows a path autonomously, built with John Deere | STM32H745, RTOS, C |
 
-## Technologies
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing-foundation&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Tech stack
 
-## Projects
-
-### Autonomous Robot Navigation
-- Developed an autonomous robot using ROS for navigation in indoor environments.
-
-### Gesture Recognition System
-- Created a gesture recognition system using OpenCV and Python for human-robot interaction.
-- Utilized machine learning techniques for gesture classification.
-
-
-## Education
-
-- **Bachelor of Science in Robotics and Digital Systems Engineering**
-  - Tecnológico de Monterrey, Monterrey, Nuevo León.
-  - Expected Graduation: [June, 2025]
-
-## GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jpcedano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+**Languages:** Python · C++ · C · MATLAB
+**Robotics & vision:** ROS2 · Gazebo · SLAM · OpenCV · YOLOv8 · MediaPipe
+**Industrial:** Allen-Bradley · Siemens PLCs · Keyence vision
+**Tools:** Linux · Docker · Git · SolidWorks
 
 ## Contact
 
-- **Email:** [josepablocedano@gmail.com](mailto:josepablocedano@gmail.com)
-- **LinkedIn:** [jpcedano](https://www.linkedin.com/in/jpcedano/)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcedano/)
-
-
-## More About Me
-
-Check out my [Portfolio](https://yourportfoliolink.com) to see more of my work!
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpcedano&show_icons=true&theme=radical)
-
-
-## Interests
-- Robotics and Automation
-- Machine Learning and AI
-- Embedded Systems and FPGA
-- Internet of Things (IoT)
-- Autonomous Systems and Control
-
-Thank you for visiting my profile! Feel free to reach out if you are interested in collaborating on projects or have any questions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcedano/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josepablocedano@gmail.com)
